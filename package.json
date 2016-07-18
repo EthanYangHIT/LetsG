@@ -4,11 +4,11 @@
   "description": "旅游社交应用",
   "main": "index.js",
   "scripts": {
-    "test": "run"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EthanYangHIT/LetsG.git"
+    "url": "https://github.com/EthanYangHIT/LetsG.git"
   },
   "keywords": [
     "travel"
@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/EthanYangHIT/LetsG/issues"
   },
-  "homepage": "https://github.com/EthanYangHIT/LetsG#readme"
+  "homepage": "https://github.com/EthanYangHIT/LetsG#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
 }
