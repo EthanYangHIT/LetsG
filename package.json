@@ -1,0 +1,22 @@
+{
+  "name": "letsg",
+  "version": "1.0.0",
+  "description": "旅游社交应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanYangHIT/LetsG.git"
+  },
+  "keywords": [
+    "travel"
+  ],
+  "author": "EthanYang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EthanYangHIT/LetsG/issues"
+  },
+  "homepage": "https://github.com/EthanYangHIT/LetsG#readme"
+}
